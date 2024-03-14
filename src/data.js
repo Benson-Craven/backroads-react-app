@@ -35,7 +35,6 @@ export const services = [
     title: 'amazing comfort',
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit asperiores, officia.',
   },
-  ,
 ]
 
 export const tours = [
